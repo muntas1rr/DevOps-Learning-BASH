@@ -6,6 +6,11 @@ Challenge: Create a simple shell script that automates a common task on your sys
 This script checks the Desktop folder: counts files, shows size, lists files, and prints text content.
 '
 
+# This script generates a quick report of your Desktop.
+# It automatically counts how many items are on the Desktop,
+# calculates the total size of the Desktop folder,
+# and lists all files if any exist.
+
 echo ""
 echo "===== DESKTOP REPORT ====="
 
@@ -22,4 +27,3 @@ if [[ $desktop_count -gt 0 ]]; then
     ls -l ~/Desktop
     echo ""
 fi
-
