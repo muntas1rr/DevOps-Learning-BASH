@@ -22,3 +22,4 @@ if [[ $desktop_count -gt 0 ]]; then
     ls -l ~/Desktop
     echo ""
 fi
+
