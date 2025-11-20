@@ -50,7 +50,7 @@ Through solving these challenges, I have gained practical experience in:
 ## How to Use This Repo
 
 - Browse the script files directly on GitHub to study the code.
-- Clone the repo if you want to run or modify the scripts locally: git clone https://github.com/muntas1rr/bash-practice.git 
+- Clone the repo if you want to run or modify the scripts locally: https://github.com/muntas1rr/DevOps-Learning-BASH.git 
 - Run the scripts in a bash-enabled terminal environment for hands-on practice.
 
 
