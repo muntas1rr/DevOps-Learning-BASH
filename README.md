@@ -45,6 +45,7 @@ Through solving these challenges, I have gained practical experience in:
 - Basic file and directory manipulation.
 - Using conditional checks to verify file existence and permissions.
 - Implementing simple backup automation.
+- Generating directory reports: counting files, measuring size, and listing contents.
 
 
 ## How to Use This Repo
